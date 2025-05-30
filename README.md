@@ -55,8 +55,6 @@ Receive answers based on document analysis and NLP processing.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a GitHub issue or fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Inspired by the need for efficient document interaction and information retrieval in smart city applications.
